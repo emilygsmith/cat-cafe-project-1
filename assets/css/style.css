@@ -2,6 +2,11 @@
 
 /* --------------Header */
 
+.index-welcome {
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
 .heading {
     margin-top: 30px;
     font-size: 20px;
@@ -9,7 +14,7 @@
 }
 
 .index-h2 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     letter-spacing: 2px;
     font-family: 'Poppins', sans-serif;
 }
@@ -18,14 +23,13 @@
     background: #aaa;
     text-transform: uppercase;
     color: #000;
-    width: 75%;
+    width: 100%;
     text-align: center;
-    margin: auto;
 }
 
 .container-header-image {
     margin: auto;
-    width: 75%;
+    width: 100%;
 }
 
 /* --------------------Index Containers */
@@ -33,19 +37,26 @@
 .index-sections {
     margin: auto;
     text-align: justify;
-    width: 75%;
+    width: 100%;
     padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: 1rem;
+}
+
+.container {
+    width: 85%;
 }
 
 
 /* -----------------Images */
 
-.index-image {
-    background: url(../images/cat-cafe-index-image.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-    min-height: 350px;
+.main-image img {
+    width: 100%;
+    height: 30%;
+}
+
+.meet-cats-image {
+    width: 100%;
 }
 
 /* -----------------Links */
@@ -77,12 +88,18 @@ a:hover {
     font-size: 2vw;
 }
 
+.h3-contact {
+    font-size: 1rem;
+}
+
 /* ------------Footer */
 
 .footer-bar {
     background-color: #ccc;
+    min-height: 3rem;
     margin: auto;
-    position: fixed;
-    bottom: 0;
+    position: relative;
     width: 100%;
+    text-align: center;
+    padding: 10px;
 }

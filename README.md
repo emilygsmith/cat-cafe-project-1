@@ -50,8 +50,16 @@
 * [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/) was used to assist with the responsiveness of the site and the styling of certain elements.
 * [Google Fonts](https://fonts.google.com/) was used to import the 'Poppins' font into the style.css file which is used throughout the entire website.
 * [Balsamiq](https://balsamiq.com/) was used to create the wireframes for the site.
+* [GIMP](https://www.gimp.org/) was used to edit text onto the hero image, as I was able to download and import the Poppins font to ensure an element of consistency.
 
 ## Testing
 ### Testing User Stories
 * As a first time visitor, I want to be able to easily navigate between the site pages.
     * The nav bar is located at the top of each page of the site for easy navigation. It is simplistic in design and straightforward to use.
+
+## Debugging
+### Navbar
+I noticed that the Navbar was extended slightly wider than the rest of the container. I had a div with the class 'row' and a div with the class 'col navbar' within that. I realised I had to add an additional div inside the column div with the class Navbar, and take the Navbar class out of the column div, and this fixed the issue.
+
+### Get in Touch section
+When viewing on mobile, the 'Get in Touch' section was too close to the previous section of 'Opening Hours', when there should have been a gap inbetween. I realised that I was missing a paragraph tag between the divs so I added this in to fix it.

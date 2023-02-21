@@ -31,11 +31,13 @@
 * [Index page wireframe](assets/images/wireframe-index-page.png)
 * [Menu wireframe](assets/images/wireframe-menu-page.png)
 * [Meet the Cats wireframe](assets/images/wireframe-cats-page.png)
-* [Mobile wireframe](assets/images/wireframe-mobile.png)
+* [Mobile wireframe](assets/images/wireframe-phone.png)
 
 ## Credit
 ### Code
 * The hero image code came from [this Unsplash post](https://unsplash.com/photos/OjB_lkGKhX8).
+* The images of the cats from the 'Meet the Cats' section also came from Unsplash, see links below:
+    * [Harry](https://unsplash.com/photos/75715CVEJhI)
 
 ## Features
  * Interactive elements of the site.

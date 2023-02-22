@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+body {
+    color: #4f4f4f;
+}
+
 /* --------------Header */
 
 .index-welcome {
@@ -32,7 +36,7 @@
     width: 100%;
 }
 
-/* --------------------Index Containers */
+/* --------------------Containers */
 
 .index-sections {
     margin: auto;
@@ -48,19 +52,30 @@
 }
 
 .food-menu {
-    background-color: #ccc;
+    background-color: #FFFDEC;
+    margin: 10px;
     padding: 10px;
+}
+
+.drink-menu {
+        background: #FFFDEC;
+        margin: 10px;
+        padding: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding: 0;
 }
 
 
 /* -----------------Images */
 
 .main-image img {
-    width: 100%;
-    height: 30%;
-}
-
-.meet-cats-image {
+    width: 200%;
 }
 
 /* -----------------Links */
@@ -94,6 +109,16 @@ a:hover {
 
 .h3-contact {
     font-size: 1rem;
+}
+
+.h2-menu {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.h3-menu {
+    font-size: 1.2rem;
+    text-transform: uppercase;
 }
 
 /* ------------Footer */

@@ -47,6 +47,11 @@
     width: 85%;
 }
 
+.food-menu {
+    background-color: #ccc;
+    padding: 10px;
+}
+
 
 /* -----------------Images */
 
@@ -56,7 +61,6 @@
 }
 
 .meet-cats-image {
-    width: 100%;
 }
 
 /* -----------------Links */

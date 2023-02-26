@@ -1,5 +1,7 @@
 # Cat that Got the Cream Cafe
 
+![Website displayed on different resolutions](assets/images/readme-main-image.png)
+
 ## Existing Features
 
 ### Navigation Bar
@@ -7,26 +9,26 @@
 * The navigation bar includes interactive links that change colour when hovered over.
 * The bar allows the user to navigate easily between each of the pages without the use of the browser's 'back' button.
 
-![Navigation Bar](/assets/images/feature-navbar.png)
+![Navigation Bar](assets/images/feature-navbar.png)
  
  ### Hero Image
  * The hero image is present on the home page (index.html) that includes the page's heading and subheading within it.
  * The image is fully responsive and resizes based on the width of the device it is being viewed on.
  * The image ties in with the colour scheme of the rest of the website.
 
- ![Hero Image](/assets/images/main-image.png)
+ ![Hero Image](assets/images/main-image.png)
 
 ### Index Sections
 * The sections on the homepage give information about the cafe and what to expect when you visit.
 * There is contact information included, as well as opening times and the address of the cafe.
 
-![Index Sections](/assets/images/feature-index-sections.png)
+![Index Sections](assets/images/feature-index-sections.png)
 
 ### Footer
 * The footer includes clickable social media icons that open in a separate tab, and change colour when hovered over.
 * These icons take you directly to the cafe's social media page for each respective icon and allows the user to keep updated with the cafe.
 
-![Footer Bar](/assets/images/feature-footer.png)
+![Footer Bar](assets/images/feature-footer.png)
 
 ## Future Features
 * Additional page to apply to adopt the available cats online.
@@ -117,14 +119,14 @@
 
 ## Device Responsiveness
 ### Index Page Tested On:
-* [15.6" Laptop Display](/assets/images/preview-laptop-index.png)
+* [15.6" Laptop Display](assets/images/preview-laptop-index.png)
 
 
 ### Menu Page Tested On:
-* [15.6" Laptop Display](/assets/images/preview-laptop-menu.png)
+* [15.6" Laptop Display](assets/images/preview-laptop-menu.png)
 
 ### Meet the Cats Page Tested On:
-* [15.6" Laptop Display](/assets/images/preview-laptop-cats.png)
+* [15.6" Laptop Display](assets/images/preview-laptop-cats.png)
 
 ### Sign Up Page Tested On:
 

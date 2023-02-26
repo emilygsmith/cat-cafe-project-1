@@ -134,7 +134,15 @@
 ## Validator Testing
 
 * HTML
-    * No errors were returned when checking via the official [W3C validator](https://validator.w3.org/nu/).
+    * No errors were returned when checking via the official [W3C validator](https://validator.w3.org/nu/):
+
+
+    ![Index Page Validator Test](assets/images/index-html-validator.png)
+
+    ![Menu Page Validator Test](assets/images/menu-html-validator.png)
+
+    ![Cats Page Validator Test](assets/images/cats-html-validator.png)
+
 * CSS
     * No errors were returned when checking via the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
 

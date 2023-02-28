@@ -2,6 +2,8 @@
 
 ![Website displayed on different resolutions](assets/images/readme-main-image.png)
 
+[See the live website!](https://emilygsmith.github.io/cat-cafe-project-1/)
+
 ## Existing Features
 
 ### Navigation Bar
@@ -186,17 +188,36 @@ When viewing on mobile, the 'Get in Touch' section was too close to the previous
     * [Shira](https://unsplash.com/photos/Tn8DLxwuDMA)
     * [Barry](https://unsplash.com/photos/IuJc2qh2TcA)
     * [Archie](https://unsplash.com/photos/LEpfefQf4rU)
-    * I used [TinyPNG](https://tinypng.com/) to compress the hero image to improve ratings on Lighthouse testing.
 
-## Technologies Used
 ### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-## Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
+* [GitHub](https://github.com/) was used to store the project code after being pushed to Git via GitHub Pages.
 * [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/) was used to assist with the responsiveness of the site and the styling of certain elements.
 * [Google Fonts](https://fonts.google.com/) was used to import the 'Poppins' font into the style.css file which is used throughout the entire website.
 * [Font Awesome](https://fontawesome.com/) was used to import social media icons in the footer that I then styled.
 * [Balsamiq](https://balsamiq.com/) was used to create the wireframes for the site.
 * [GIMP](https://www.gimp.org/) was used to edit text onto the hero image, as I was able to download and import the Poppins font to ensure an element of consistency. It was also used to re-size images.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) was used to test performance, accessibility, best practise and SEO on the site.
+
+## Deployment
+The project was deployed to GitHub Pages using the following method:
+
+### Deploying my own Project
+1. I logged into GitHub and clicked on my profile picture.
+2. I clicked on Your Repositories.
+3. I clicked on the specific repository.
+4. I then clicked Settings in the list of headers, next to Insights.
+5. From there I clicked on Pages.
+6. In the Pages section, in the Source subsection, I selected 'Deploy from a branch' in the first drop-down.
+7. In the Branch subsection, I selected the drop-down called 'None' and changed this to 'Main'.
+8. I clicked Save and refreshed the page to find the live link to my deployed site at the top of the page.
+
+### Deploying Another User's Project
+1. Log into GitHub and locate the specific Repository.
+2. Click on Settings in the list of headers, next to Insights.
+3. Click on Pages.
+4. In the Pages section, in the Source subsection, change the drop-down selected as 'None' to 'Main'.
+5. Refresh the page to find the live link to the deployed site.
